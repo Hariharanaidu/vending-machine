@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ven_mac.v(26): always construct contains both blocking and non-blocking assignments File: C:/Users/doddi/Documents/Quartus_projects/ven_mac/ven_mac.v Line: 26

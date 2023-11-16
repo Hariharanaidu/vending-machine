@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/doddi/Documents/Quartus_projects/ven_mac/simulation/modelsim
+vhard_block
+Z1 !s110 1700135739
+!i10b 1
+!s100 =7C]8Rl:B7kn_lSoQiT=;2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0e[X5UcZIYh68baPIg^2=3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1700135731
+Z5 8vending_machine.vo
+Z6 Fvending_machine.vo
+!i122 0
+L0 479 45
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1700135739.000000
+Z9 !s107 vending_machine.vo|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|vending_machine.vo|
+!i113 1
+Z11 o-vlog01compat -work work
+Z12 !s92 -vlog01compat -work work +incdir+.
+Z13 tCvgOpt 0
+vven_mac
+R1
+!i10b 1
+!s100 VzRMC:n4:2^F6TBhl`:E23
+R2
+IJZ0E57A0nmEn^ohCXOT@g2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 32 446
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vven_mac_tb
+R1
+!i10b 1
+!s100 n?MGgT1kYZd7^lV2QE8N`2
+R2
+I8YbSYEi3U]?Vm5H=:[o7_3
+R3
+R0
+w1700135709
+8C:/Users/doddi/Documents/Quartus_projects/ven_mac/ven_mac_tb.v
+FC:/Users/doddi/Documents/Quartus_projects/ven_mac/ven_mac_tb.v
+!i122 1
+L0 3 39
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/doddi/Documents/Quartus_projects/ven_mac/ven_mac_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/doddi/Documents/Quartus_projects/ven_mac|C:/Users/doddi/Documents/Quartus_projects/ven_mac/ven_mac_tb.v|
+!i113 1
+R11
+!s92 -vlog01compat -work work +incdir+C:/Users/doddi/Documents/Quartus_projects/ven_mac
+R13
